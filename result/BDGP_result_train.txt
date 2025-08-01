@@ -1,0 +1,288 @@
+BDGP_Result:
+Loss 1 :0.0001
+Loss 2:0.0001
+ACC_MEAN:99.72(0.0)
+NMI_MEAN:98.88(0.0)
+ARI_MEAN:99.3(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.0001
+Loss 2:0.001
+ACC_MEAN:99.4(0.0)
+NMI_MEAN:98.17(0.0)
+ARI_MEAN:98.52(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.0001
+Loss 2:0.01
+ACC_MEAN:99.24(0.0)
+NMI_MEAN:97.6(0.0)
+ARI_MEAN:98.11999999999999(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.0001
+Loss 2:0.1
+ACC_MEAN:99.2(0.0)
+NMI_MEAN:97.36(0.0)
+ARI_MEAN:98.02(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.0001
+Loss 2:1
+ACC_MEAN:99.4(0.0)
+NMI_MEAN:98.14(0.0)
+ARI_MEAN:98.50999999999999(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.0001
+Loss 2:10
+ACC_MEAN:99.44(0.0)
+NMI_MEAN:97.97(0.0)
+ARI_MEAN:98.61(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.001
+Loss 2:0.0001
+ACC_MEAN:99.08(0.0)
+NMI_MEAN:96.95(0.0)
+ARI_MEAN:97.72999999999999(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.001
+Loss 2:0.001
+ACC_MEAN:99.08(0.0)
+NMI_MEAN:96.97(0.0)
+ARI_MEAN:97.72999999999999(0.0)
+current_Best_acc: 0.9972 
+
+BDGP_Result:
+Loss 1 :0.001
+Loss 2:0.01
+ACC_MEAN:99.88(0.0)
+NMI_MEAN:99.5(0.0)
+ARI_MEAN:99.7(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.001
+Loss 2:0.1
+ACC_MEAN:99.56(0.0)
+NMI_MEAN:98.21(0.0)
+ARI_MEAN:98.9(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.001
+Loss 2:1
+ACC_MEAN:99.68(0.0)
+NMI_MEAN:98.77(0.0)
+ARI_MEAN:99.2(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.001
+Loss 2:10
+ACC_MEAN:99.44(0.0)
+NMI_MEAN:97.89(0.0)
+ARI_MEAN:98.61(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.01
+Loss 2:0.0001
+ACC_MEAN:99.72(0.0)
+NMI_MEAN:98.86(0.0)
+ARI_MEAN:99.3(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.01
+Loss 2:0.001
+ACC_MEAN:99.44(0.0)
+NMI_MEAN:98.22999999999999(0.0)
+ARI_MEAN:98.61(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.01
+Loss 2:0.01
+ACC_MEAN:99.36(0.0)
+NMI_MEAN:97.74000000000001(0.0)
+ARI_MEAN:98.41(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.01
+Loss 2:0.1
+ACC_MEAN:99.32(0.0)
+NMI_MEAN:97.66(0.0)
+ARI_MEAN:98.32(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.01
+Loss 2:1
+ACC_MEAN:99.88(0.0)
+NMI_MEAN:99.46000000000001(0.0)
+ARI_MEAN:99.7(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.01
+Loss 2:10
+ACC_MEAN:99.16(0.0)
+NMI_MEAN:97.23(0.0)
+ARI_MEAN:97.92(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.1
+Loss 2:0.0001
+ACC_MEAN:98.72(0.0)
+NMI_MEAN:95.94(0.0)
+ARI_MEAN:96.84(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.1
+Loss 2:0.001
+ACC_MEAN:98.96000000000001(0.0)
+NMI_MEAN:96.43(0.0)
+ARI_MEAN:97.43(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.1
+Loss 2:0.01
+ACC_MEAN:96.88(0.0)
+NMI_MEAN:91.75999999999999(0.0)
+ARI_MEAN:92.5(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.1
+Loss 2:0.1
+ACC_MEAN:98.64(0.0)
+NMI_MEAN:95.22(0.0)
+ARI_MEAN:96.64(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.1
+Loss 2:1
+ACC_MEAN:96.48(0.0)
+NMI_MEAN:91.28(0.0)
+ARI_MEAN:91.49000000000001(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :0.1
+Loss 2:10
+ACC_MEAN:99.16(0.0)
+NMI_MEAN:97.05(0.0)
+ARI_MEAN:97.92(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :1
+Loss 2:0.0001
+ACC_MEAN:94.04(0.0)
+NMI_MEAN:85.95(0.0)
+ARI_MEAN:85.59(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :1
+Loss 2:0.001
+ACC_MEAN:97.56(0.0)
+NMI_MEAN:91.9(0.0)
+ARI_MEAN:94.01(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :1
+Loss 2:0.01
+ACC_MEAN:95.04(0.0)
+NMI_MEAN:87.18(0.0)
+ARI_MEAN:88.37(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :1
+Loss 2:0.1
+ACC_MEAN:93.16(0.0)
+NMI_MEAN:82.47(0.0)
+ARI_MEAN:83.86(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :1
+Loss 2:1
+ACC_MEAN:95.44(0.0)
+NMI_MEAN:87.42(0.0)
+ARI_MEAN:89.1(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :1
+Loss 2:10
+ACC_MEAN:95.76(0.0)
+NMI_MEAN:87.9(0.0)
+ARI_MEAN:89.82(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :10
+Loss 2:0.0001
+ACC_MEAN:93.52000000000001(0.0)
+NMI_MEAN:84.2(0.0)
+ARI_MEAN:84.57000000000001(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :10
+Loss 2:0.001
+ACC_MEAN:92.4(0.0)
+NMI_MEAN:81.44(0.0)
+ARI_MEAN:81.89999999999999(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :10
+Loss 2:0.01
+ACC_MEAN:93.64(0.0)
+NMI_MEAN:85.77(0.0)
+ARI_MEAN:85.07000000000001(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :10
+Loss 2:0.1
+ACC_MEAN:95.44(0.0)
+NMI_MEAN:88.28(0.0)
+ARI_MEAN:88.99000000000001(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :10
+Loss 2:1
+ACC_MEAN:93.92(0.0)
+NMI_MEAN:84.67(0.0)
+ARI_MEAN:85.64(0.0)
+current_Best_acc: 0.9988 
+
+BDGP_Result:
+Loss 1 :10
+Loss 2:10
+ACC_MEAN:93.67999999999999(0.0)
+NMI_MEAN:85.67(0.0)
+ARI_MEAN:85.09(0.0)
+current_Best_acc: 0.9988
+
